@@ -39,7 +39,7 @@ link = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.js"
 # homepage section menu
 [[menu.main]]
 name = "How it works"
-URL = "products"
+URL = "how-it-works"
 weight = 1
 
 [[menu.main]]
