@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
-baseurl = "http://examplesite.com/"
-title = "Vex | hugo landing page template"
+baseurl = "http://workationtribe.id/"
+title = "Workation Tribe ID | Work while travel"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
@@ -38,25 +38,25 @@ link = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.js"
 
 # homepage section menu
 [[menu.main]]
-name = "Home"
-URL = "/"
+name = "How it works"
+URL = "products"
 weight = 1
 
 [[menu.main]]
-name = "Products"
+name = "Next trip"
 URL = "products"
 weight = 2
 
 [[menu.main]]
-name = "Blog"
-URL = "blog"
+name = "Testimonial"
+pre = "#"
+URL = "testimonial"
 weight = 3
 
 [[menu.main]]
-name = "Review"
-pre = "#"
-URL = "testimonial"
-weight = 4
+name = "Blog"
+URL = "blog"
+weight =4
 
 [[menu.main]]
 name = "Contact"
@@ -92,6 +92,7 @@ logo_width = "100px"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
+
 # currency
 currency = "$"
 # contact form action
