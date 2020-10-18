@@ -39,7 +39,7 @@ link = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.js"
 # homepage section menu
 [[menu.main]]
 name = "How it works"
-URL = "how-it-works"
+URL = "products"
 weight = 1
 
 [[menu.main]]
@@ -89,9 +89,10 @@ weight = 4
 [params]
 logo = "images/logo.png"
 logo_width = "100px"
+
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Workation Tribe team"
 
 # currency
 currency = "$"
@@ -122,8 +123,8 @@ weight = 1
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
 
-################################### French language #####################################
-[Languages.fr]
+################################### Indonesian language #####################################
+[Languages.id]
 languageName = "Id"
 languageCode = "id-id"
 contentDir = "content/id"
