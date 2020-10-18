@@ -124,9 +124,9 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 
 ################################### French language #####################################
 [Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+languageName = "Id"
+languageCode = "id-id"
+contentDir = "content/id"
 weight = 2
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
